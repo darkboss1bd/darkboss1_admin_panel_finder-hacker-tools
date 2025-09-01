@@ -1,6 +1,6 @@
 # darkboss1_admin_panel_finder-hacker-tools
 
-###
+### Install Command
 ```
 bash
 git clone https://github.com/darkboss1bd/darkboss1_admin_panel_finder-hacker-tools.git
