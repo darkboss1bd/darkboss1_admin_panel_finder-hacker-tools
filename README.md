@@ -9,8 +9,10 @@ pip install requests
 python darkboss1_admin_panel_finder-hacker-tools.py
 ```
 
-
-#🎨 Features:
-#Hacker style design 
-#Multi-threading scan
-#Scan result display
+```
+bash
+🎨 Features:
+Hacker style design 
+Multi-threading scan
+Scan result display
+```
